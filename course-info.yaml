@@ -1,0 +1,15 @@
+type: hyperskill
+title: HR Data Analysis
+language: English
+summary: '<p>You work as an analyst in a company. The company&#39;s HR boss provided
+  you with three datasets. The first two are from different offices: A and B, with
+  information about employees&#39; performance: how much they work, their salaries,
+  the number of their projects, departments, and so on. The third one is the HR&#39;s
+  extensive dataset with information on the employees&#39; satisfaction with their
+  jobs, their last evaluation metrics, and the current status in the company. Your
+  task is to explore the data and answer some of the HR questions.</p><br/><br/>Learn
+  more at <a href="https://hyperskill.org/projects/268?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card">https://hyperskill.org/projects/268</a>'
+programming_language: Python
+content:
+- HR Data Analysis
+mode: Study
